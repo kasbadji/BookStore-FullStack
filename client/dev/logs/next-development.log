@@ -1,0 +1,1182 @@
+[00:09:34.894] Server  ERROR    ⨯ Error: ENOENT: no such file or directory, open '/home/halim/VScode/Ecommerce-FullStack/client/.next/dev/server/app/books/page.js'
+[00:09:35.515] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.519] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.524] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.527] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.530] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.532] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.535] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.537] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.547] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.550] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.554] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.557] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.560] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.564] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.567] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.570] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.573] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.576] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.579] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.583] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.587] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.591] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.594] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.597] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.600] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.603] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.606] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.608] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.610] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.613] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.615] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.617] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.620] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.623] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.625] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.628] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.631] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.633] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.637] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.642] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.646] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.650] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.663] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.666] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.669] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.672] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.675] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.678] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.680] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.683] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.686] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.688] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.691] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.693] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.696] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.698] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.700] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.703] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.705] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.708] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.711] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.714] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.716] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.719] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.722] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.725] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.727] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.729] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.732] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.734] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.736] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.739] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.742] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.744] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.747] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.749] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.753] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.756] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.761] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.766] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.770] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.774] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.778] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.781] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.785] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.788] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.792] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.796] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.800] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.804] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.808] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.812] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.817] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.822] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.839] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.843] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.847] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.854] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.859] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.866] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.871] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.876] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.881] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.886] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.890] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.895] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.899] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.906] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.911] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.915] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.919] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:35.923] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.294] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.296] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.299] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.302] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.305] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.308] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.312] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.316] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.320] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.323] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.327] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.331] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.348] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.352] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.356] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.359] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.364] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.368] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.372] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.375] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.377] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.380] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.382] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.384] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.386] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.389] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.391] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.393] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.395] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.398] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.402] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.404] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.407] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.409] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.411] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.415] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.418] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.421] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.423] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.425] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.427] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.429] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.431] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.434] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.437] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.440] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.443] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.445] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.447] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.449] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.450] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.453] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.456] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.458] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.461] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.463] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.466] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.468] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.470] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.472] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.474] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.476] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.479] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.481] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.483] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.494] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.497] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.499] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.501] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.504] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.506] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.508] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.511] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.513] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.515] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.517] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.519] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.522] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.525] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.527] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.530] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.532] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.534] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.536] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.538] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.540] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.542] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.544] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.546] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.548] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.550] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.552] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.555] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.558] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.560] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.562] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.565] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.567] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.569] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.572] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.574] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.577] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.579] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.582] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.584] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.586] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.589] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.590] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.592] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.594] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.596] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.598] Server  ERROR   Error: x: Invalid source map. Only conformant source maps can be used to find the original code.
+[00:09:36.621] Server  ERROR    ⨯ ./node_modules/next/dist/client/components/is-next-router-error.js
+Module not found: Can't resolve './http-access-fallback/http-access-fallback'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/components/is-next-router-error.js
+Module not found: Can't resolve './http-access-fallback/http-access-fallback'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/components/is-next-router-error.js
+Module not found: Can't resolve './redirect-error'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/hot-middleware-client.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/hot-reloader/pages/hot-reloader-pages.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/page-bootstrap.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/hot-reloader/pages/hot-reloader-pages.js
+Module not found: Can't resolve 'next/dist/compiled/next-devtools'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/page-bootstrap.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/hot-reloader/pages/hot-reloader-pages.js
+Module not found: Can't resolve 'next/dist/compiled/strip-ansi'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/page-bootstrap.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/hot-reloader/pages/hot-reloader-pages.js
+Module not found: Can't resolve '../../../../shared/lib/format-webpack-messages'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/page-bootstrap.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/hot-reloader/pages/hot-reloader-pages.js
+Module not found: Can't resolve '../../report-hmr-latency'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/page-bootstrap.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/hot-reloader/pages/hot-reloader-pages.js
+Module not found: Can't resolve '../turbopack-hot-reloader-common'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/page-bootstrap.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/hot-reloader/pages/websocket.js
+Module not found: Can't resolve '../../../../next-devtools/userspace/app/forward-logs'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/page-bootstrap.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/hot-reloader/pages/websocket.js
+Module not found: Can't resolve '../get-socket-url'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/page-bootstrap.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/hot-reloader/pages/websocket.js
+Module not found: Can't resolve '../../../../lib/constants'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/page-bootstrap.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/dev/on-demand-entries-client.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/page-bootstrap.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/has-base-path.js
+Module not found: Can't resolve '../shared/lib/router/utils/path-has-prefix'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/head-manager.js
+Module not found: Can't resolve './set-attributes-from-props'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/index.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_wildcard'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/index.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/index.js
+Module not found: Can't resolve 'react/jsx-runtime'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/index.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/index.js
+Module not found: Can't resolve 'react-dom/client'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/index.js
+Module not found: Can't resolve './portal'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/next-dev.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-bootstrap.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-bootstrap.js
+Module not found: Can't resolve 'next/dist/compiled/next-devtools'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-loader.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-loader.js
+Module not found: Can't resolve './add-base-path'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-loader.js
+Module not found: Can't resolve '../shared/lib/router/utils/interpolate-as'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-loader.js
+Module not found: Can't resolve '../shared/lib/router/utils/get-asset-path-from-route'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-loader.js
+Module not found: Can't resolve './add-locale'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-loader.js
+Module not found: Can't resolve '../shared/lib/router/utils/parse-relative-url'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-loader.js
+Module not found: Can't resolve '../shared/lib/router/utils/remove-trailing-slash'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-loader.js
+Module not found: Can't resolve './route-loader'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/page-loader.js
+Module not found: Can't resolve '../shared/lib/constants'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/react-client-callbacks/on-recoverable-error.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/react-client-callbacks/on-recoverable-error.js
+Module not found: Can't resolve '../../shared/lib/lazy-dynamic/bailout-to-csr'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/react-client-callbacks/on-recoverable-error.js
+Module not found: Can't resolve './report-global-error'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/react-client-callbacks/on-recoverable-error.js
+Module not found: Can't resolve '../../next-devtools/userspace/app/errors/stitched-error'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/route-announcer.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/route-announcer.js
+Module not found: Can't resolve 'react/jsx-runtime'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/route-announcer.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/router.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/router.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/script.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/script.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_wildcard'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/script.js
+Module not found: Can't resolve 'react/jsx-runtime'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/script.js
+Module not found: Can't resolve 'react-dom'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/script.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/script.js
+Module not found: Can't resolve './set-attributes-from-props'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/script.js
+Module not found: Can't resolve './request-idle-callback'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/tracing/tracer.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/with-router.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/with-router.js
+Module not found: Can't resolve 'react/jsx-runtime'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/client/with-router.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/pages/_app.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/pages/_app.js
+Module not found: Can't resolve 'react/jsx-runtime'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/pages/_app.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/pages/_error.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/pages/_error.js
+Module not found: Can't resolve 'react/jsx-runtime'
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/pages/_error.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/app-router-context.shared-runtime.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/app-router-context.shared-runtime.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/head-manager-context.shared-runtime.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/head-manager-context.shared-runtime.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/head.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/pages/_error.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/head.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_wildcard'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/pages/_error.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/head.js
+Module not found: Can't resolve 'react/jsx-runtime'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/pages/_error.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/head.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/pages/_error.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/head.js
+Module not found: Can't resolve './side-effect'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/pages/_error.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/head.js
+Module not found: Can't resolve './utils/warn-once'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/pages/_error.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/hooks-client-context.shared-runtime.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/image-config-context.shared-runtime.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/image-config-context.shared-runtime.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/image-config-context.shared-runtime.js
+Module not found: Can't resolve './image-config'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router-context.shared-runtime.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router-context.shared-runtime.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/adapters.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_wildcard'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/adapters.js
+Module not found: Can't resolve 'react/jsx-runtime'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/adapters.js
+Module not found: Can't resolve 'react'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/adapters.js
+Module not found: Can't resolve './utils'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/adapters.js
+Module not found: Can't resolve './utils/as-path-to-search-params'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/adapters.js
+Module not found: Can't resolve './utils/route-regex'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_default'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '@swc/helpers/_/_interop_require_wildcard'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/remove-trailing-slash'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../../../client/route-loader'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../page-path/denormalize-page-path'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../i18n/normalize-locale-path'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/parse-relative-url'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/route-matcher'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/route-regex'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/format-url'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../../../client/detect-domain-locale'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/parse-path'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../../../client/add-locale'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../../../client/remove-locale'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../../../client/add-base-path'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../../../client/resolve-href'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../../../lib/is-api-route'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/get-next-pathname-info'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/format-next-pathname-info'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/compare-states'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/is-local-url'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/is-bot'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/omit'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve './utils/interpolate-as'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../../../lib/constants'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/router.js
+Module not found: Can't resolve '../../lib/bloom-filter'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/utils/disable-smooth-scroll.js
+Module not found: Can't resolve '../../utils/warn-once'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js
+Module not found: Can't resolve './interception-routes'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/index.js
+./node_modules/next/dist/client/next-dev.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/compiled/react-refresh/runtime.js
+Module not found: Can't resolve './cjs/react-refresh-runtime.development.js'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/compiled/@next/react-refresh-utils/dist/runtime.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/lib/is-error.js
+Module not found: Can't resolve '../shared/lib/is-plain-object'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/lib/is-error.js
+Module not found: Can't resolve 'next/dist/compiled/safe-stable-stringify'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/router.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/next-devtools/userspace/pages/pages-dev-overlay-setup.js
+Module build failed: Error: ENOENT: no such file or directory, open '/home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/next-devtools/userspace/pages/pages-dev-overlay-setup.js'
+
+Import trace for requested module:
+./node_modules/next/dist/next-devtools/userspace/pages/pages-dev-overlay-setup.js
+./node_modules/next/dist/client/index.js
+[00:09:37.126] Browser ERROR   ./node_modules/next/dist/server/dev/node-stack-frames.js
+Module build failed: Error: ENOENT: no such file or directory, open '/home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/dev/node-stack-frames.js'
+
+Import trace for requested module:
+./node_modules/next/dist/server/dev/node-stack-frames.js
+./node_modules/next/dist/client/index.js
+[00:09:37.126] Browser ERROR   ./node_modules/follow-redirects/index.js
+Error: ENOENT: no such file or directory, open '/home/halim/VScode/Ecommerce-FullStack/client/node_modules/follow-redirects/index.js'
+
+Import trace for requested module:
+./node_modules/follow-redirects/index.js
+./node_modules/axios/lib/adapters/http.js
+./node_modules/axios/lib/adapters/adapters.js
+./node_modules/axios/lib/axios.js
+./node_modules/axios/index.js
+./src/lib/axiosInstance.ts
+./src/lib/api.ts
+./src/app/books/page.tsx
+[00:09:37.126] Browser ERROR   ./node_modules/form-data/lib/form_data.js
+Error: ENOENT: no such file or directory, open '/home/halim/VScode/Ecommerce-FullStack/client/node_modules/form-data/lib/form_data.js'
+
+Import trace for requested module:
+./node_modules/form-data/lib/form_data.js
+./node_modules/axios/lib/platform/node/classes/FormData.js
+./node_modules/axios/lib/helpers/toFormData.js
+./node_modules/axios/lib/axios.js
+./node_modules/axios/index.js
+./src/lib/axiosInstance.ts
+./src/lib/api.ts
+./src/app/books/page.tsx
+[00:09:37.126] Browser ERROR   ./node_modules/proxy-from-env/index.js
+Error: ENOENT: no such file or directory, open '/home/halim/VScode/Ecommerce-FullStack/client/node_modules/proxy-from-env/index.js'
+
+Import trace for requested module:
+./node_modules/proxy-from-env/index.js
+./node_modules/axios/lib/adapters/http.js
+./node_modules/axios/lib/adapters/adapters.js
+./node_modules/axios/lib/axios.js
+./node_modules/axios/index.js
+./src/lib/axiosInstance.ts
+./src/lib/api.ts
+./src/app/books/page.tsx
+[00:09:37.126] Browser ERROR   Module not found: Error: Can't resolve 'next/dist/pages/_app' in '/home/halim/VScode/Ecommerce-FullStack/client'
+[00:09:37.126] Browser ERROR   Module not found: Error: Can't resolve 'next/dist/pages/_document' in '/home/halim/VScode/Ecommerce-FullStack/client'
+[00:09:37.126] Browser ERROR   Module not found: Error: Can't resolve 'next-route-loader' in '/home/halim/VScode/Ecommerce-FullStack/client'
+[00:09:37.898] Server  LOG      ○ Compiling /_error ...
+[00:09:48.525] Server  ERROR    ⨯ Error: Cannot find module '@swc/helpers/package.json'
+Require stack:
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/create-compiler-aliases.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/webpack-config.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/dev/hot-reloader-webpack.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-server.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/start-server.js
+[00:09:48.554] Server  ERROR   Error: Cannot find module '@swc/helpers/package.json'
+Require stack:
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/create-compiler-aliases.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/webpack-config.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/dev/hot-reloader-webpack.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-server.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/start-server.js
+[00:09:48.577] Server  ERROR   Error: Cannot find module '@swc/helpers/package.json'
+Require stack:
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/create-compiler-aliases.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/webpack-config.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/dev/hot-reloader-webpack.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-server.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/start-server.js
+[00:09:48.640] Server  ERROR    ⨯ Error: Cannot find module '@swc/helpers/package.json'
+Require stack:
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/create-compiler-aliases.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/webpack-config.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/dev/hot-reloader-webpack.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-server.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/start-server.js
+[00:09:48.673] Server  ERROR   Error: Cannot find module '@swc/helpers/package.json'
+Require stack:
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/create-compiler-aliases.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/webpack-config.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/dev/hot-reloader-webpack.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-server.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/start-server.js
+[00:09:48.697] Server  ERROR   Error: Cannot find module '@swc/helpers/package.json'
+Require stack:
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/create-compiler-aliases.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/webpack-config.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/dev/hot-reloader-webpack.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-server.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/start-server.js
+[00:09:48.702] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/books. Falling back to browser navigation. {}
+[00:09:48.744] Server  ERROR    ⨯ Error: Cannot find module '@swc/helpers/package.json'
+Require stack:
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/create-compiler-aliases.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/webpack-config.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/dev/hot-reloader-webpack.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-server.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/start-server.js
+[00:09:48.768] Server  ERROR   Error: Cannot find module '@swc/helpers/package.json'
+Require stack:
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/create-compiler-aliases.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/webpack-config.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/dev/hot-reloader-webpack.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-server.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/start-server.js
+[00:09:48.791] Server  ERROR   Error: Cannot find module '@swc/helpers/package.json'
+Require stack:
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/create-compiler-aliases.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/build/webpack-config.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/dev/hot-reloader-webpack.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/router-server.js
+- /home/halim/VScode/Ecommerce-FullStack/client/node_modules/next/dist/server/lib/start-server.js
+[00:09:55.435] Server  ERROR    ⨯ Module not found: Error: Can't resolve 'next-flight-client-entry-loader' in '/home/halim/VScode/Ecommerce-FullStack/client'
