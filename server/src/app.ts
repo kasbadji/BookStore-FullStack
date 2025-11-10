@@ -5,6 +5,7 @@ import errorHandler from "./middlewares/errorHandler";
 import authRoutes from "./routes/authRoutes"
 import bookRoutes from "./routes/bookRoutes"
 import cartRoutes from "./routes/cartRoutes";
+import orderRoutes from "./routes/orderRoutes";
 
 dotenv.config();
 
@@ -16,6 +17,7 @@ app.use(express.json());
 app.use("/api/auth", authRoutes);
 app.use("/api/books", bookRoutes);
 app.use("/api/cart", cartRoutes);
+app.use("/api/orders", orderRoutes);
 
 app.use(errorHandler);
 

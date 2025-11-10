@@ -59,6 +59,14 @@ model Order {
   status     String      @default("pending") //? "pending" | "paid" | "shipped" | "delivered" | "cancelled"
 }
 
+enum OrderStatus {
+  PENDING
+  PAID
+  SHIPPED
+  DELIVERED
+  CANCELLED
+}
+
 //! ------------------- OrderItem -------------------
 model OrderItem {
   id       String  @id @default(cuid())
