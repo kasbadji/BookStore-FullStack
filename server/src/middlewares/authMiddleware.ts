@@ -8,7 +8,7 @@ export interface JwtPayload extends DefaultJwtPayload {
 }
 
 export const verifyToken = (
-  req: Request,
+  req: Request & { user?: { id: string; email: string; role: string } },
   res: Response,
   next: NextFunction
 ) => {
@@ -28,7 +28,8 @@ export const verifyToken = (
     }
 
     const payload = decoded as JwtPayload;
-    req.user = {
+    // assign to req.user via a cast to any to avoid needing global type augmentation here
+    (req as any).user = {
       id: payload.id,
       email: payload.email,
       role: payload.role,

@@ -1,17 +1,17 @@
 import prisma from "../config/db"
 
 export class cartService {
-    
+
     //! get cart item
     static async getCartByUserId(userId: string){
         let cart = await prisma.cart.findUnique({
             where: { userId },
-            include: {item: {include: { book: true }}},
+            include: { items: { include: { book: true }}},
         });
         if (!cart){
             cart = await prisma.cart.create({
                 data: { userId },
-                include: { item: { include: { book: true }}},
+                include: { items: { include: { book: true }}},
             });
         }
         return cart;
@@ -20,7 +20,7 @@ export class cartService {
     //! add Item
     static async addItem(userId: string, bookId: string, quantity: number){
         const cart = await this.getCartByUserId(userId);
-        const existingItem = cart.item.find((i) => i.bookId === bookId);
+    const existingItem = cart.items.find((i: any) => i.bookId === bookId);
 
         if (existingItem){
             return prisma.cartItem.update({

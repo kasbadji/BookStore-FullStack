@@ -4,13 +4,13 @@ export class orderService {
     static async checkout(userId: string) {
         const cart = await prisma.cart.findUnique({
             where: { userId },
-            include: { item: true },
+            include: { items: true },
         });
-        if (!cart || cart.item.length === 0) {
+        if (!cart || cart.items.length === 0) {
             throw new Error("Cart is empty");
         }
 
-        const totalPrice = cart.item.reduce((sum, item) =>
+        const totalPrice = cart.items.reduce((sum: number, item: any) =>
              sum + Number(item.price) * item.quantity, 0);
 
         const order = await prisma.order.create({
@@ -19,7 +19,7 @@ export class orderService {
                 totalPrice,
                 status: "pending",
                 items: {
-                    create: cart.item.map((item) => ({
+                    create: cart.items.map((item: any) => ({
                         bookId: item.bookId,
                         quantity: item.quantity,
                         price: item.price,

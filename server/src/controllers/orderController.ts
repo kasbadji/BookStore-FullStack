@@ -2,9 +2,9 @@ import { Request, Response, NextFunction } from "express";
 import { orderService } from "../services/orderService";
 
 export class orderController {
-    static async checkout(req: Request, res: Response, next: NextFunction) {
+    static async checkout(req: Request & { user?: { id: string } }, res: Response, next: NextFunction) {
         try {
-            const userId = req.user?.id;
+            const userId = (req as any).user?.id;
             if (!userId) {
                 return res.status(401).json({ message: "Unauthorized" });
             }
@@ -16,9 +16,9 @@ export class orderController {
         }
     }
 
-    static async getUserOrders(req: Request, res: Response, next: NextFunction) {
+    static async getUserOrders(req: Request & { user?: { id: string } }, res: Response, next: NextFunction) {
         try {
-            const userId = req.user?.id;
+            const userId = (req as any).user?.id;
             if (!userId) {
                 return res.status(401).json({ message: "Unauthorized" });
             }
