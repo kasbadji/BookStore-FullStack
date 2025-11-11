@@ -32,7 +32,7 @@ export class AuthService {
             },
         });
 
-        const token = AuthService.generateToken(newUser.id, newUser.name);
+        const token = AuthService.generateToken(newUser.id, newUser.role);
         const {password:_, ...safeUser} = newUser;
         return { user: safeUser, token };
     }

@@ -20,4 +20,6 @@ api.interceptors.request.use((config) => {
     return config;
 });
 
+export default api;
+
 //! configured axios instance so you don't repeat base URL + token code.

@@ -1,5 +1,6 @@
 "use client";
 
+import RedirectIfAuth from "@/components/RedirectIfAuth";
 import { useAuthStore } from "@/store/authStore";
 import { useRouter } from "next/navigation";
 import React, { useState } from "react";
@@ -22,6 +23,7 @@ export default function LoginPage() {
     };
 
     return (
+      <RedirectIfAuth>
         <form onSubmit={handleLogin} >
             <h2>Login</h2>
 
@@ -31,5 +33,6 @@ export default function LoginPage() {
 
             <button type="submit" >Login</button>
         </form>
+       </RedirectIfAuth>
     );
 }
