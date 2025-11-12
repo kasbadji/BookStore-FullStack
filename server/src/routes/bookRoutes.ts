@@ -4,9 +4,9 @@ import { verifyToken } from "../middlewares/authMiddleware";
 
 const router = Router();
 
-router.get("/", verifyToken as RequestHandler, bookController.getAllBook);
+router.get("/", verifyToken as RequestHandler ,bookController.getAllBook);
 
-router.get("/:bookId", verifyToken as RequestHandler, bookController.getBookById);
+router.get("/:bookId", bookController.getBookById);
 
 router.post("/", verifyToken as RequestHandler, bookController.createBook);
 

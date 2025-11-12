@@ -46,7 +46,7 @@ export const useAuthStore = create<AuthState>((set, get) => ({
         }
     },
 
-    register: async (email: string, name: string, password: string) => {
+    register: async (name: string, email: string, password: string) => {
         try {
             const response = await api.post<LoginResponse>("/auth/register", {
             name,

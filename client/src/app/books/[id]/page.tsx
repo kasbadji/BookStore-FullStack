@@ -1,94 +1,48 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { useParams, useRouter } from "next/navigation";
-import { api } from "@/lib/axios";
-import { useAuthStore } from "@/store/authStore";
+import { use, useEffect, useState } from "react";
+import Image from "next/image";
 
 type Book = {
-  id: string;
-  title: string;
-  author: string;
-  description: string;
-  price: number;
+  bookId: string;
+  bookTitle: string;
+  bookPrice: number;
+  bookDescription: string;
+  bookImage: string;
+  bookStock: number;
 };
 
-export default function BookDetailsPage() {
-  const { id } = useParams();
-  const router = useRouter();
-  const token = useAuthStore((state) => state.token);
+export default function BookDetailsPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = use(params); 
 
   const [book, setBook] = useState<Book | null>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const fetchBook = async () => {
-      try {
-        const res = await api.get<{ book: Book }>(`/books/${id}`);
-        setBook(res.data.book);
-      } catch (err) {
-        console.error(err);
-      } finally {
-        setLoading(false);
-      }
-    };
+    const token = localStorage.getItem("token");
 
-    fetchBook();
+    fetch(`http://localhost:5000/api/books/${id}`, {
+      headers: {
+        Authorization: `Bearer ${token}`
+      }
+    })
+      .then(res => res.json())
+      .then(data => {
+        if (data?.bookId) setBook(data);
+        setLoading(false);
+      });
   }, [id]);
 
-  const deleteBook = async () => {
-    if (!confirm("Are you sure you want to delete this book?")) return;
-
-    try {
-      await api.delete(`/books/${id}`, {
-        headers: { Authorization: `Bearer ${token}` }
-      });
-
-      router.push("/books");
-    } catch (err) {
-      console.error("Failed to delete book", err);
-    }
-  };
-
-  if (loading) return <p style={{ padding: 20 }}>Loading...</p>;
-  if (!book) return <p style={{ padding: 20 }}>Book not found</p>;
+  if (loading) return <h2 style={{ padding: "20px" }}>Loading...</h2>;
+  if (!book) return <h2 style={{ padding: "20px" }}>Book not found</h2>;
 
   return (
-    <div style={{ padding: "20px" }}>
-      <h1>{book.title}</h1>
-      <p><b>Author:</b> {book.author}</p>
-      <p><b>Price:</b> ${book.price}</p>
-      <p style={{ marginTop: "10px" }}>{book.description}</p>
-
-      {/* Admin/user actions */}
-      {token && (
-        <div style={{ marginTop: "20px", display: "flex", gap: "10px" }}>
-          <button
-            style={{
-              padding: "8px 14px",
-              background: "orange",
-              border: "none",
-              cursor: "pointer",
-            }}
-            onClick={() => router.push(`/books/${id}/edit`)}
-          >
-            Edit
-          </button>
-
-          <button
-            style={{
-              padding: "8px 14px",
-              background: "red",
-              color: "#fff",
-              border: "none",
-              cursor: "pointer",
-            }}
-            onClick={deleteBook}
-          >
-            Delete
-          </button>
-        </div>
-      )}
+    <div style={{ padding: "20px", maxWidth: "600px", margin: "0 auto" }}>
+      <Image src={book.bookImage} alt={book.bookTitle} width={300} height={450} />
+      <h1>{book.bookTitle}</h1>
+      <p><b>Price:</b> ${book.bookPrice}</p>
+      <p>{book.bookDescription}</p>
+      <p><b>Stock:</b> {book.bookStock}</p>
     </div>
   );
 }
