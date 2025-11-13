@@ -5,16 +5,23 @@ import { useAuthStore } from "@/store/authStore";
 import { useEffect } from "react";
 
 export default function NavBar() {
-  const { user, token, loading, setToken, loadUser, logout } = useAuthStore();
+  const { user, token, loading, setToken, loadUser, logout, init } = useAuthStore();
 
   useEffect(() => {
-    const savedToken = localStorage.getItem("token");
+    // run initialization on client mount to read token and load user
+    if (typeof window === 'undefined') return;
+    if (typeof init === 'function') {
+      init();
+      return;
+    }
 
+    // fallback behavior if init is not available
+    const savedToken = window.localStorage.getItem('token');
     if (savedToken && !token) {
       setToken(savedToken);
-      loadUser();
+      if (typeof loadUser === 'function') loadUser();
     }
-  }, [token, setToken, loadUser]);
+  }, [init, token, setToken, loadUser]);
 
   return (
     <nav style={{
@@ -42,7 +49,7 @@ export default function NavBar() {
         {/* User logged in */}
         {!loading && user && (
           <>
-            <span>Hello, {user.name}</span>
+            <span>Hello, {user?.name}</span>
             <button onClick={logout}>Logout</button>
           </>
         )}
